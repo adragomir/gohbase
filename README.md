@@ -1,0 +1,4 @@
+gohbase
+=======
+
+Golang HBase client
